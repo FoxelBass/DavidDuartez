@@ -43,7 +43,6 @@ Formado como Técnico electrónico en telecomunicaciones, siempre tuve la pasió
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/facebook.svg" alt="Facebook" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.linkedin.com/in/david-duartez-976821227/">
-<a href="https://www.linkedin.com/in/david-duartez-976821227/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
 <a href="mailto:duartezdavid@gmail.com">
