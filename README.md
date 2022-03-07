@@ -4,7 +4,7 @@
 ![png-desarrollador.png](https://i.postimg.cc/fRmSJZtL/desarrollador.png)
   
   </div>
-Formado como Técnico electrónico en telecomunicaciones, siempre tuve la pasión de desarrollar páginas web. Hace unos 10 años empecé en forma autodidacta mirando el código fuente de las páginas, tratando de entender la lógica que había por detrás. Actualmente soy estudiante de Técnico en Programación en la UTN MDP y estoy realizando distintos bootcamps como el curso de desarrollo de software dictado por Alura Latam en convenio con Oracle, curso de Testing QA en la plataforma Educación IT, curso de JS, Node JS, React en IA LAB, entre otros...
+Formado como Técnico electrónico en telecomunicaciones, siempre tuve la pasión de desarrollar páginas web. Hace unos 10 años empecé en forma autodidacta mirando el código fuente de las páginas, tratando de entender la lógica que había por detrás. Actualmente soy estudiante de Técnico en Programación en la UTN MDP y estoy realizando distintos bootcamps como el curso de desarrollo de software dictado por Alura Latam en convenio con Oracle, curso de Testing QA en la plataforma Educación IT, curso de JS, Node JS, React en IA LAB, aprendizaje de inglés en con profesora particular, entre otros...
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FoxelBass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxelBass&layout=compact&langs_count=7&theme=dracula"/>
